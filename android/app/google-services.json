@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163697671082",
+    "firebase_url": "https://blog-app-41a42-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blog-app-41a42",
+    "storage_bucket": "blog-app-41a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163697671082:android:cad7cbfb32c2d14c7989d3",
+        "android_client_info": {
+          "package_name": "com.ceeeb.blog.blog_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163697671082-n2at3h1gcr7omel7fpo1ag9ahcm3vssh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ZHp1DQLlNAL4BEjopdP62hL1OWyKbqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163697671082-53venltv1ptgfuv0n8dhh0tsojrmahcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
